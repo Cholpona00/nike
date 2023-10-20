@@ -1,0 +1,20 @@
+.started {
+  padding-bottom: 135px;
+  &__block {
+    background: #EBFFE4;
+    text-align: center;
+    padding: 84px;
+  }
+  &__title {
+    color: #051101;
+    font-size: 44px;
+    font-weight: 700;
+    padding: 84px 0 24px;
+  }
+  &__text {
+    color: #051101;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+    margin: 24px 0 35px;
+  }
+}

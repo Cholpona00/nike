@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c76d825-cc48-4261-a8e1-e3841dcf0bea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WOBwGvsZBdAS2hrVGs1d6jnSvL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\OneDrive\Рабочий стол\nike\src\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c76d825-cc48-4261-a8e1-e3841dcf0bea" name="Default Changelist" comment="" />
+      <created>1696593982392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696593982392</updated>
+      <workItem from="1696593983944" duration="5097000" />
+      <workItem from="1696680453692" duration="8060000" />
+      <workItem from="1696941983360" duration="5497000" />
+      <workItem from="1697050019111" duration="84000" />
+      <workItem from="1697114549471" duration="4041000" />
+      <workItem from="1697184728385" duration="10474000" />
+      <workItem from="1697380770724" duration="6626000" />
+      <workItem from="1697457344280" duration="193000" />
+      <workItem from="1697458587881" duration="6027000" />
+      <workItem from="1697615330722" duration="12713000" />
+      <workItem from="1697642350999" duration="110000" />
+      <workItem from="1697709302693" duration="87000" />
+      <workItem from="1697710158019" duration="71000" />
+      <workItem from="1697716362630" duration="27000" />
+      <workItem from="1697716451175" duration="48000" />
+      <workItem from="1697716594538" duration="328000" />
+      <workItem from="1697798612408" duration="4403000" />
+      <workItem from="1697804323984" duration="901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1697617508206">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1697617508206" />
+  </component>
+</project>
