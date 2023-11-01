@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c76d825-cc48-4261-a8e1-e3841dcf0bea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/up (2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/video.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/best.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/best.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/greatest.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/greatest.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/latest.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/latest.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/started.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/started.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,28 @@
       <workItem from="1697804323984" duration="2743000" />
       <workItem from="1697807210548" duration="2471000" />
       <workItem from="1697889339271" duration="771000" />
-      <workItem from="1698063425986" duration="3886000" />
+      <workItem from="1698063425986" duration="4871000" />
+      <workItem from="1698084342799" duration="18000" />
+      <workItem from="1698084538987" duration="28000" />
+      <workItem from="1698085273285" duration="28000" />
+      <workItem from="1698085496049" duration="39000" />
+      <workItem from="1698085580012" duration="30000" />
+      <workItem from="1698232057459" duration="76000" />
+      <workItem from="1698251786467" duration="9000" />
+      <workItem from="1698254519917" duration="28000" />
+      <workItem from="1698320741039" duration="22000" />
+      <workItem from="1698320855877" duration="24000" />
+      <workItem from="1698321631878" duration="23000" />
+      <workItem from="1698582931770" duration="96000" />
+      <workItem from="1698591254566" duration="21000" />
+      <workItem from="1698591376485" duration="57000" />
+      <workItem from="1698830676345" duration="63000" />
+      <workItem from="1698837375508" duration="137000" />
+      <workItem from="1698837630455" duration="398000" />
+      <workItem from="1698838125423" duration="12000" />
+      <workItem from="1698838914696" duration="16000" />
+      <workItem from="1698839425186" duration="25000" />
+      <workItem from="1698841061309" duration="1815000" />
     </task>
     <servers />
   </component>
@@ -87,6 +106,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1698841629856">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1698841629856" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1697617508206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
